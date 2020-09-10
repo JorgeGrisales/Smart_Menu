@@ -1,0 +1,27 @@
+.Registro{
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  background-color: #1e5f74;
+}
+.display-4{
+  color: black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  -webkit-text-stroke: 1px white;
+}
+
+.lead{
+  color: black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  -webkit-text-stroke: 1px white;
+}
+.Address2{
+width: 450px;
+}
+
+.Address1{
+width: 350px;
+}
+
+.btn{
+margin: auto;
+}

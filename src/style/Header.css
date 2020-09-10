@@ -1,0 +1,21 @@
+.Logo{
+  height: 95px;
+  width: 100px;
+}
+
+.Logo2{
+  height: 95px;
+  width: 200px;
+}
+
+.Header{
+background-color: #1e5f74;
+font-family: 'Times New Roman', Times, serif;
+}
+
+h4{
+  color: black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  -webkit-text-stroke: 1px white;
+}
+
